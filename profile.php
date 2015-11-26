@@ -1,3 +1,3 @@
 <?php include('includes/top.php'); ?>
-contenu de la page profile
+contenu du profile
 <?php include('includes/bottom.php'); ?>
